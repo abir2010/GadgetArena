@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "IPhone 14",
+        "description": "lorem ipsum",
+        "price": 100,
+        "sale": true,
+        "inStock": true,
+        "image": "https://assets-global.website-files.com/625816a3416990dd61391b9b/6319da81abe502240d882b89_iPhone%2014%20Pro%20Mockups4-p-2000.jpeg",
+        "catagory": "mobile",
+        "rating": 4,
+        "amount": 1
+    },
+    {
+        "id": 2,
+        "title": "Xiaomi Powerbank",
+        "description": "lorem ipsum",
+        "price": 20,
+        "sale": false,
+        "inStock": false,
+        "image": "https://cf.shopee.com.my/file/fcab066d4ff784b25a5958e930f7a30c",
+        "catagory": "gadget",
+        "rating": 4,
+        "amount": 1
+    },
+    {
+        "id": 3,
+        "title": "Macbook Air",
+        "description": "lorem ipsum",
+        "price": 120,
+        "sale": true,
+        "inStock": true,
+        "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/153/15311/15311924.jpeg",
+        "catagory": "laptop",
+        "rating": 4,
+        "amount": 1
+    },
+    {
+        "id": 4,
+        "title": "TWS MT10",
+        "description": "lorem ipsum",
+        "price": 10,
+        "sale": true,
+        "inStock": true,
+        "image": "https://th.bing.com/th/id/R.59e7a294562a5a39d4b979ba10d707cd?rik=yoXQNmKC1pegBw&riu=http%3a%2f%2fportuguese.sportsmart-watches.com%2fphoto%2fps33358338-long_standby_time_m10_tws_bt8832a_wireless_bluetooth_earphone_with_mic.jpg&ehk=pEfRQJkYwwf%2bB8fPSLKA3AFNiBhaR6qGb5THGm55Q8g%3d&risl=&pid=ImgRaw&r=0",
+        "catagory": "earphone",
+        "rating": 4,
+        "amount": 1
+    }
+]
